@@ -24,7 +24,6 @@ This repository contains the redesigned layout and components for a mobile appli
 - **Design Style:** Clean and minimalistic design with blue and white gradients for a calming and fresh feel.
 - **Modern Elements:** Use of rounded icons and cards for an approachable look.
 - **Typography:** High-contrast typography ensuring readability for all user demographics.
-- **Infographics:** Dynamic infographics and progress visuals to improve user engagement.
 
 ### Improved Navigation
 - **Bottom Navigation Bar:** Structured for quick access to key sections:
@@ -39,7 +38,6 @@ This repository contains the redesigned layout and components for a mobile appli
 - **Interactive Elements:** Sliders for step goals and water intake tracking.
 
 ### Accessibility Compliance
-- **Visibility:** WCAG-compliant color contrast for better accessibility.
 - **Assistive Features:** Descriptive icons and alt-text for all visual elements.
 - **Usability:** Large touch targets and clear call-to-action buttons.
 
