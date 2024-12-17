@@ -1,4 +1,4 @@
-# NandanaMundakad-NandanaMundakad-UI-UX-task-3
+# NandanaMundakad-UI-UX-task-3
 ### Mobile App UI/UX Redesign
 
 This repository contains the redesigned layout and components for a mobile application. The goal of this redesign is to enhance user experience, improve visual aesthetics, and ensure responsiveness across all devices.
