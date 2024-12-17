@@ -7,7 +7,7 @@ This repository contains the redesigned layout and components for a mobile appli
 
 ## 🖼 Project Preview
 
-![FITNESS TRACKER APP DESIGN ](./task3.png)
+![FITNESS TRACKER APP DESIGN ](./Task 3.png)
 
 ---
 
